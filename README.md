@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there and こんにちは 👋
 - 🔭 I’m currently participating in a full-stack web bootcamp at AppleSeeds academy.
 - 🌱 The main focus of my studies is HTML, CSS, JS, React.js, Node.js.
 - 🐍 I also like Phyton, which I started learning by myself, and then through a she codes; course.
